@@ -1,0 +1,168 @@
+.fylo
+{
+    background-color: hsl(228, 56%, 26%);
+    color: white;
+    height: 200px;
+    width: 370px;
+    border-bottom-left-radius: 10px 5%;
+    border-top-left-radius:10px 5%;
+    border-top-right-radius: 100px 60%;
+    border-bottom-right-radius:10px 5%;
+    margin-top: 220px;
+    margin-left: 270px;
+}
+
+.logo {
+    padding-left: 40px;
+    padding-top: 45px;
+}
+
+.little-box {
+    background-color: hsl(229, 57%, 11%);
+    height: 45px;
+    width: 45px;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-top-right-radius: 20%;
+    border-top-left-radius: 20%;
+    margin-left: 50px;
+    margin-top: 30px;
+    float: left;
+}
+
+.doc {
+    padding-left: 13px;
+    padding-top: 10px;
+}
+
+.folder {
+    padding-top: 13px;
+    padding-left: 10.5px;
+}
+
+.upload {
+    padding-left: 11px;
+    padding-top: 15px;
+}
+
+.storage-box{
+    background-color: hsl(228, 56%, 26%);
+    height: 140px;
+    width: 550px;
+    margin-top: -157px;
+    margin-left: 670px;
+    border-bottom-left-radius:10px 5%;
+    border-top-left-radius:10px 5%;
+    border-top-right-radius:10px 5%;
+    border-bottom-right-radius:10px 5%;
+}
+
+.text {
+    color:white;
+    padding-top:40px;
+    padding-left:40px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.statusbar1 {
+    background-color: hsl(229, 57%, 11%);
+    height: 17.8px;
+    width: 460px;
+    margin-left: 40px;
+    border-bottom-left-radius:12px 50%;
+    border-top-left-radius:12px 50%;
+    border-top-right-radius:12px 50%;
+    border-bottom-right-radius:12px 50%;
+    padding-top: 3px;
+    padding-left: 5px;
+    padding-bottom: 2px;
+}
+
+.statusbar2{
+    background-image: linear-gradient(to right,hsl(6, 100%, 80%) , hsl(335, 100%, 65%));
+    height:11px;
+    width:340px;
+    border-bottom-left-radius:9px 50%;
+    border-top-left-radius:9px 50%;
+    border-top-right-radius:9px 50%;
+    border-bottom-right-radius:9px 50%;
+    padding-top: 2.5px;
+    padding-bottom: 2px;
+
+}
+
+
+
+.mercury
+{
+    background-color: white;
+    height: 11px;
+    width: 11px;
+    border-radius: 50%;
+    margin-left: 327px;
+
+}
+
+.measure0 {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    margin-top: -45px;
+    margin-left: 720px;
+}
+
+.measure100 {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    margin-top: -23px;
+    margin-left: 1132px;
+}
+
+.balance-indicator {
+    background-color: white;
+    margin-top: -180px;
+    margin-left: 1000px;
+    height: 73px;
+    width: 170px;
+    border-bottom-left-radius:10px 10%;
+    border-top-left-radius:10px 10%;
+    border-top-right-radius:10px 10%;
+}
+
+
+.balance-text {
+    color: hsl(229, 57%, 11%);
+    padding-top: 10px;
+    padding-left: 20px;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+.gb-left {
+    color: hsl(229, 7%, 55%);
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: -30px;
+    padding-left: 95px;
+    
+}
+
+.triangle {
+    margin-top: 0px;
+    margin-left: 1140px;
+    width: 0;
+      height: 0px;
+      border-top: 23px solid white;
+      border-left: 30px solid transparent;
+}
+
+.footer {
+    color:white;
+    margin-top: 200px;
+    text-align: center;
+}
+
